@@ -1,7 +1,6 @@
-## Hi there 👋
+## 🌟 Ivan Shakhorski
+### 🚀 Frontend Engineer | Certified Vue.js Specialist | Node.js Enthusiast
 
-I'm Ivan Shakhorski, a passionate software engineer specializing in modern web development with Vue.js, Nuxt.js, and TypeScript. I have extensive experience in building Single Page Applications (SPA) and Progressive Web Apps (PWA), with a strong focus on crafting efficient frontend architectures that prioritize scalability and performance.
+ I'm a software engineer with experience in crafting web applications. Proficient in Vue.js, Node.js, and scalable architectures, I specialize in delivering impactful user experiences and driving business outcome with a passion!
 
-In addition to my frontend expertise, I bring hands-on experience in backend development using Node.js, allowing me to deliver full-stack solutions that are both robust and maintainable. I'm a firm believer in clean code, test-driven development, and continuously leveraging modern frameworks to create high-quality, scalable products.
-
-Feel free to explore my work and projects below — let's build something amazing together!
+Feel free to explore my work and projects below — Let’s build something innovative together!
