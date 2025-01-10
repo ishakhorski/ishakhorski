@@ -1,6 +1,3 @@
-## 🌟 Ivan Shakhorski
-### 🚀 Frontend Engineer | Certified Vue.js Specialist | Node.js Enthusiast
+## 🌟 Hi, I'm Ivan
 
- I'm a software engineer with experience in crafting web applications. Proficient in Vue.js, Node.js, and scalable architectures, I specialize in delivering impactful user experiences and driving business outcome with a passion!
-
-Feel free to explore my work and projects below — Let’s build something innovative together!
+<img src="https://raw.githubusercontent.com/ishakhorski/ishakhorski/master/assets/greeting.webp" alt="banner that says - well, here we are">
